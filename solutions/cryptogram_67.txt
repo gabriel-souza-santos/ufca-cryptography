@@ -1,0 +1,5 @@
+Cryptogram #67
+Key: URCA
+Decrypted Text: UM COMPUTADOR EXECUTA PROGRAMAS SEGUINDO INSTRUCOES ARMAZENADAS NA MEMORIA
+Words: 9 | Chi-Squared: 18.2601
+--------------------------------------------------

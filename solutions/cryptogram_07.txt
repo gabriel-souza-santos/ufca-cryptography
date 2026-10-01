@@ -1,0 +1,5 @@
+Cryptogram #7
+Key: IAIA
+Decrypted Text: MAPAS REPRESENTAM LUGARES
+Words: 3 | Chi-Squared: 14.6880
+--------------------------------------------------

@@ -1,0 +1,5 @@
+Cryptogram #27
+Key: CHAVE
+Decrypted Text: REQUISITOS DESCREVEM NECESSIDADES DO SISTEMA
+Words: 5 | Chi-Squared: 23.6582
+--------------------------------------------------
